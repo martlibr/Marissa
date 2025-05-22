@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://martlibr.github.io/Marissa/images/malitriangles/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "malitriangles"
+                ]
+            },
+            "height": 637,
+            "width": 1000,
+            "items": [
+                {
+                    "id": "https://martlibr.github.io/Marissa/images/malitriangles/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martlibr.github.io/Marissa/images/malitriangles/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martlibr.github.io/Marissa/images/malitriangles/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 20
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 40
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 319
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 637
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1000,
+                                        "id": "https://martlibr.github.io/Marissa/images/malitriangles",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 637
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martlibr.github.io/Marissa/images/malitriangles/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martlibr.github.io/Marissa/images/maligarment/canvas/",
             "type": "Canvas",
             "label": {

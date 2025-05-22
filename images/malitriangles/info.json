@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 20
+  }, {
+    "width" : 63,
+    "height" : 40
+  }, {
+    "width" : 125,
+    "height" : 80
+  }, {
+    "width" : 250,
+    "height" : 160
+  }, {
+    "width" : 500,
+    "height" : 319
+  }, {
+    "width" : 1000,
+    "height" : 637
+  } ],
+  "profile" : "level0",
+  "width" : 1000,
+  "id" : "https://martlibr.github.io/Marissa/images/malitriangles",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 637
+}
