@@ -1,0 +1,15 @@
+{
+  "id" : "https://martlibr.github.io/Marissa/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in martlibr/Marissa project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://martlibr.github.io/Marissa/manifests/manifest1.json",
+    "label" : {
+      "en" : [ "Dogon Indigo Textiles" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
