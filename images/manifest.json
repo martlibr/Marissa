@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://martlibr.github.io/Marissa/images/malirainbow/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "malirainbow"
+                ]
+            },
+            "height": 1000,
+            "width": 753,
+            "items": [
+                {
+                    "id": "https://martlibr.github.io/Marissa/images/malirainbow/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://martlibr.github.io/Marissa/images/malirainbow/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://martlibr.github.io/Marissa/images/malirainbow/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 24,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 48,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 95,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 377,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 753,
+                                                "height": 1000
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 753,
+                                        "id": "https://martlibr.github.io/Marissa/images/malirainbow",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1000
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://martlibr.github.io/Marissa/images/malirainbow/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://martlibr.github.io/Marissa/images/malifrench/canvas/",
             "type": "Canvas",
             "label": {
